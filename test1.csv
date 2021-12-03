@@ -1,5 +1,5 @@
-Name,Age,Experience
-Vaishnav,24,10
-Vaisakh,13,8
-Deepa,46,6
-Sreekumar,54,4
+Name,Age,Experience,Salary
+Vaishnav,24,10,50000
+Vaisakh,13,8,40000
+Deepa,46,6,30000
+Sreekumar,54,4,20000
